@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jay Gulvi\\source\\repos\\RepoPatternPrac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6474529-AF18-458C-9E13-C11AB6B38739}|RepoPatternPrac\\RepoPatternPrac.csproj|c:\\users\\jay gulvi\\source\\repos\\repopatternprac\\repopatternprac\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6474529-AF18-458C-9E13-C11AB6B38739}|RepoPatternPrac\\RepoPatternPrac.csproj|solutionrelative:repopatternprac\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6474529-AF18-458C-9E13-C11AB6B38739}|RepoPatternPrac\\RepoPatternPrac.csproj|c:\\users\\jay gulvi\\source\\repos\\repopatternprac\\repopatternprac\\models\\logindetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6474529-AF18-458C-9E13-C11AB6B38739}|RepoPatternPrac\\RepoPatternPrac.csproj|solutionrelative:repopatternprac\\models\\logindetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6474529-AF18-458C-9E13-C11AB6B38739}|RepoPatternPrac\\RepoPatternPrac.csproj|c:\\users\\jay gulvi\\source\\repos\\repopatternprac\\repopatternprac\\repo\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6474529-AF18-458C-9E13-C11AB6B38739}|RepoPatternPrac\\RepoPatternPrac.csproj|solutionrelative:repopatternprac\\repo\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6474529-AF18-458C-9E13-C11AB6B38739}|RepoPatternPrac\\RepoPatternPrac.csproj|c:\\users\\jay gulvi\\source\\repos\\repopatternprac\\repopatternprac\\views\\account\\logi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6474529-AF18-458C-9E13-C11AB6B38739}|RepoPatternPrac\\RepoPatternPrac.csproj|solutionrelative:repopatternprac\\views\\account\\logi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6474529-AF18-458C-9E13-C11AB6B38739}|RepoPatternPrac\\RepoPatternPrac.csproj|c:\\users\\jay gulvi\\source\\repos\\repopatternprac\\repopatternprac\\views\\account\\regiusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6474529-AF18-458C-9E13-C11AB6B38739}|RepoPatternPrac\\RepoPatternPrac.csproj|solutionrelative:repopatternprac\\views\\account\\regiusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6474529-AF18-458C-9E13-C11AB6B38739}|RepoPatternPrac\\RepoPatternPrac.csproj|c:\\users\\jay gulvi\\source\\repos\\repopatternprac\\repopatternprac\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6474529-AF18-458C-9E13-C11AB6B38739}|RepoPatternPrac\\RepoPatternPrac.csproj|solutionrelative:repopatternprac\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6474529-AF18-458C-9E13-C11AB6B38739}|RepoPatternPrac\\RepoPatternPrac.csproj|c:\\users\\jay gulvi\\source\\repos\\repopatternprac\\repopatternprac\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6474529-AF18-458C-9E13-C11AB6B38739}|RepoPatternPrac\\RepoPatternPrac.csproj|solutionrelative:repopatternprac\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6474529-AF18-458C-9E13-C11AB6B38739}|RepoPatternPrac\\RepoPatternPrac.csproj|c:\\users\\jay gulvi\\source\\repos\\repopatternprac\\repopatternprac\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6474529-AF18-458C-9E13-C11AB6B38739}|RepoPatternPrac\\RepoPatternPrac.csproj|solutionrelative:repopatternprac\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6474529-AF18-458C-9E13-C11AB6B38739}|RepoPatternPrac\\RepoPatternPrac.csproj|c:\\users\\jay gulvi\\source\\repos\\repopatternprac\\repopatternprac\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A6474529-AF18-458C-9E13-C11AB6B38739}|RepoPatternPrac\\RepoPatternPrac.csproj|solutionrelative:repopatternprac\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6474529-AF18-458C-9E13-C11AB6B38739}|RepoPatternPrac\\RepoPatternPrac.csproj|c:\\users\\jay gulvi\\source\\repos\\repopatternprac\\repopatternprac\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6474529-AF18-458C-9E13-C11AB6B38739}|RepoPatternPrac\\RepoPatternPrac.csproj|solutionrelative:repopatternprac\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\RepoPatternPrac\\RepoPatternPrac\\Models\\LoginDetails.cs",
+              "RelativeDocumentMoniker": "RepoPatternPrac\\Models\\LoginDetails.cs",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\RepoPatternPrac\\RepoPatternPrac\\Models\\LoginDetails.cs",
+              "RelativeToolTip": "RepoPatternPrac\\Models\\LoginDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:53:00.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\RepoPatternPrac\\RepoPatternPrac\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "RepoPatternPrac\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\RepoPatternPrac\\RepoPatternPrac\\Models\\Users.cs",
+              "RelativeToolTip": "RepoPatternPrac\\Models\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:52:15.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\RepoPatternPrac\\RepoPatternPrac\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "RepoPatternPrac\\Models\\Products.cs",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\RepoPatternPrac\\RepoPatternPrac\\Models\\Products.cs",
+              "RelativeToolTip": "RepoPatternPrac\\Models\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T18:52:13.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\RepoPatternPrac\\RepoPatternPrac\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RepoPatternPrac\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\RepoPatternPrac\\RepoPatternPrac\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RepoPatternPrac\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T20:13:25.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\RepoPatternPrac\\RepoPatternPrac\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RepoPatternPrac\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\RepoPatternPrac\\RepoPatternPrac\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "RepoPatternPrac\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T20:13:23.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\RepoPatternPrac\\RepoPatternPrac\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "RepoPatternPrac\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\RepoPatternPrac\\RepoPatternPrac\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "RepoPatternPrac\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:27:16.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\RepoPatternPrac\\RepoPatternPrac\\Repo\\UserService.cs",
+              "RelativeDocumentMoniker": "RepoPatternPrac\\Repo\\UserService.cs",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\RepoPatternPrac\\RepoPatternPrac\\Repo\\UserService.cs",
+              "RelativeToolTip": "RepoPatternPrac\\Repo\\UserService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:26:17.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logi.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\RepoPatternPrac\\RepoPatternPrac\\Views\\Account\\Logi.cshtml",
+              "RelativeDocumentMoniker": "RepoPatternPrac\\Views\\Account\\Logi.cshtml",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\RepoPatternPrac\\RepoPatternPrac\\Views\\Account\\Logi.cshtml",
+              "RelativeToolTip": "RepoPatternPrac\\Views\\Account\\Logi.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T19:05:58.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegiUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\RepoPatternPrac\\RepoPatternPrac\\Views\\Account\\RegiUsers.cshtml",
+              "RelativeDocumentMoniker": "RepoPatternPrac\\Views\\Account\\RegiUsers.cshtml",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\RepoPatternPrac\\RepoPatternPrac\\Views\\Account\\RegiUsers.cshtml",
+              "RelativeToolTip": "RepoPatternPrac\\Views\\Account\\RegiUsers.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T19:05:48.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\RepoPatternPrac\\RepoPatternPrac\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "RepoPatternPrac\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\RepoPatternPrac\\RepoPatternPrac\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "RepoPatternPrac\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwC4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:05:15.285Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

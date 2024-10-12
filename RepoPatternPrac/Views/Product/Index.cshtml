@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+@model List<Products>
+
+@if (TempData["msg"]!=null)
+{
+    <div class="alert alert-success">@TempData["msg"]</div>
+}
+
+<a asp-controller="Product" asp-action="AddProduct" class="btn btn-primary">Add Product</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Name</th>
+            <th scope="col">Manufacturing Country</th>
+            <th scope="col">Price</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var d in Model)
+        {
+            <tr>
+                <th scope="row">@d.Id</th>
+                <td>@d.Name</td>
+                <td>@d.PManuFacCountry</td>
+                <td>@d.Price</td>
+                <td>
+                    <a asp-controller="Product" asp-action="DeleteProd" asp-route-id="@d.Id" class="btn btn-danger" onclick='return confirm(" Are You Sure to Delete this Record?")'>Delete</a>
+                    <a asp-controller="Product" asp-action="EditProd" asp-route-id="@d.Id" class="btn btn-success">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
